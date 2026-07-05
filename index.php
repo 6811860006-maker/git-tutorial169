@@ -1,5 +1,9 @@
 <?php
-echo "tip"
+echo "tip";
+  //mut
+  //oop!
+  //hello world
+echo "tip";
   //mut
   //oop!
   //hello world
